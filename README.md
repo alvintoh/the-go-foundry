@@ -1,4 +1,4 @@
-# Go Programming Projects
+# The Go Foundry
 
 ## Introduction
 
